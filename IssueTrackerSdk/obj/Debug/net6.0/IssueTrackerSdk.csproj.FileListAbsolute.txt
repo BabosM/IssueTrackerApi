@@ -1,0 +1,12 @@
+C:\Users\Asia\source\repos\IssueTrackerSdk\IssueTrackerSdk\obj\Debug\net6.0\IssueTrackerSdk.csproj.AssemblyReference.cache
+C:\Users\Asia\source\repos\IssueTrackerSdk\IssueTrackerSdk\obj\Debug\net6.0\IssueTrackerSdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asia\source\repos\IssueTrackerSdk\IssueTrackerSdk\obj\Debug\net6.0\IssueTrackerSdk.AssemblyInfoInputs.cache
+C:\Users\Asia\source\repos\IssueTrackerSdk\IssueTrackerSdk\obj\Debug\net6.0\IssueTrackerSdk.AssemblyInfo.cs
+C:\Users\Asia\source\repos\IssueTrackerSdk\IssueTrackerSdk\obj\Debug\net6.0\IssueTrackerSdk.csproj.CoreCompileInputs.cache
+C:\Users\Asia\source\repos\IssueTrackerSdk\IssueTrackerSdk\bin\Debug\net6.0\IssueTrackerSdk.deps.json
+C:\Users\Asia\source\repos\IssueTrackerSdk\IssueTrackerSdk\bin\Debug\net6.0\IssueTrackerSdk.dll
+C:\Users\Asia\source\repos\IssueTrackerSdk\IssueTrackerSdk\bin\Debug\net6.0\IssueTrackerSdk.pdb
+C:\Users\Asia\source\repos\IssueTrackerSdk\IssueTrackerSdk\obj\Debug\net6.0\IssueTrackerSdk.dll
+C:\Users\Asia\source\repos\IssueTrackerSdk\IssueTrackerSdk\obj\Debug\net6.0\refint\IssueTrackerSdk.dll
+C:\Users\Asia\source\repos\IssueTrackerSdk\IssueTrackerSdk\obj\Debug\net6.0\IssueTrackerSdk.pdb
+C:\Users\Asia\source\repos\IssueTrackerSdk\IssueTrackerSdk\obj\Debug\net6.0\ref\IssueTrackerSdk.dll
